@@ -4,9 +4,6 @@
 
 - [TensorFlow 快速入门与实战](#tensorflow-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98)
   - [课件列表](#%E8%AF%BE%E4%BB%B6%E5%88%97%E8%A1%A8)
-      - [第一部分：TensorFlow初印象](#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86tensorflow%E5%88%9D%E5%8D%B0%E8%B1%A1)
-      - [第二部分：TensorFlow初接触](#%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86tensorflow%E5%88%9D%E6%8E%A5%E8%A7%A6)
-      - [第三部分：TensorFlow基础概念解析](#%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86tensorflow%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E8%A7%A3%E6%9E%90)
   - [问题答疑](#%E9%97%AE%E9%A2%98%E7%AD%94%E7%96%91)
       - [1. Windows 上安装 TensorFlow 流程](#1-windows-%E4%B8%8A%E5%AE%89%E8%A3%85-tensorflow-%E6%B5%81%E7%A8%8B)
       - [2. 学这个课程需要什么样的基础？](#2-%E5%AD%A6%E8%BF%99%E4%B8%AA%E8%AF%BE%E7%A8%8B%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%9F%BA%E7%A1%80)
@@ -17,9 +14,9 @@
 
 ## 课件列表
 
-#### [第一部分：TensorFlow初印象](slides/1-TensorFlow初印象.pdf)
-#### [第二部分：TensorFlow初接触](slides/2-TensorFlow初接触.pdf)
-#### [第三部分：TensorFlow基础概念解析](slides/3-TensorFlow基础概念解析.pdf)
+[第一部分：TensorFlow初印象](slides/1-TensorFlow初印象.pdf)
+[第二部分：TensorFlow初接触](slides/2-TensorFlow初接触.pdf)
+[第三部分：TensorFlow基础概念解析](slides/3-TensorFlow基础概念解析.pdf)
 
 ## 问题答疑
 
