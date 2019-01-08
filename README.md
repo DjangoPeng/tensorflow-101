@@ -15,7 +15,9 @@
 ## 课件列表
 
 [第一部分：TensorFlow初印象](slides/1-TensorFlow初印象.pdf)
+
 [第二部分：TensorFlow初接触](slides/2-TensorFlow初接触.pdf)
+
 [第三部分：TensorFlow基础概念解析](slides/3-TensorFlow基础概念解析.pdf)
 
 ## 问题答疑
