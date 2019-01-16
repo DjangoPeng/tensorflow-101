@@ -12,6 +12,8 @@
 
 # TensorFlow 快速入门与实战
 
+![](images/course_poster.jpg)
+
 ## 课件列表
 
 [第一部分：TensorFlow初印象](slides/1-TensorFlow初印象.pdf)
