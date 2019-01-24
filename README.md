@@ -22,6 +22,10 @@
 
 [第三部分：TensorFlow基础概念解析](slides/3-TensorFlow基础概念解析.pdf)
 
+[第四部分：实战TensorFlow房价预测](slides/4-实战TensorFlow房价预测.pdf)
+
+
+
 ## 问题答疑
 
 **我将极客时间上多次提到的问题整理在此，希望可以解答有同样问题的朋友。**
@@ -78,3 +82,4 @@ python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce
 1. 编程语言：Python 基础语法，不需要太高深技巧，因为是 DSL
 2. 数学：线性代数、数学分析（或微积分）、简单的统计学基础
 3. AI：基础的神经网络理论
+
