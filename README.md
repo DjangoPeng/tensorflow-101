@@ -79,7 +79,7 @@ python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce
 
 #### 2. 学这个课程需要什么样的基础？
 
-1. 编程语言：Python 基础语法，不需要太高深技巧，因为是 DSL
-2. 数学：线性代数、数学分析（或微积分）、简单的统计学基础
-3. AI：基础的神经网络理论
+![](images/knowledge-graph-0.jpg)
+
+![](images/knowledge-graph-1.jpg)
 
