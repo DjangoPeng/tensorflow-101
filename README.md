@@ -24,7 +24,7 @@
 
 [第四部分：实战TensorFlow房价预测](slides/4-实战TensorFlow房价预测.pdf)
 
-
+[第五部分：实战TensorFlow手写体数字识别](slides/5-实战TensorFlow手写体数字识别.pdf)
 
 ## 问题答疑
 
@@ -48,17 +48,17 @@ pip3 --version
 virtualenv --version
 ```
 
-1) 独立安装 Microsoft Visual C++ 2015 Redistributable Update 3 或安装完整的 Visual Studio 2015：
-- 进入 Visual Studio [下载页](https://visualstudio.microsoft.com/vs/older-downloads/)
-- 选择 **Redistributables and Build Tools**
-- 下载和安装 Microsoft Visual C++ 2015 Redistributable Update 3
+> 1) 独立安装 Microsoft Visual C++ 2015 Redistributable Update 3 或安装完整的 Visual Studio 2015：
+> - 进入 Visual Studio [下载页](https://visualstudio.microsoft.com/vs/older-downloads/)
+> - 选择 **Redistributables and Build Tools**
+> - 下载和安装 Microsoft Visual C++ 2015 Redistributable Update 3
 
-2) 安装 Windows 上 [64位的 Python 3 发布版](https://www.python.org/downloads/windows/)
-3) 安装 **pip** 和 **virtualenv**
+> 2) 安装 Windows 上 [64位的 Python 3 发布版](https://www.python.org/downloads/windows/)
 
-```shell
-pip3 install -U pip virtualenv
-```
+>  3) 安装 **pip** 和 **virtualenv**
+>  ```shell
+>  pip3 install -U pip virtualenv
+>  ```
 
 2. 创建 Python 虚拟环境
 
