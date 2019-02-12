@@ -24,7 +24,7 @@
 
 [第四部分：实战TensorFlow房价预测](slides/4-实战TensorFlow房价预测.pdf)
 
-
+[第五部分：实战TensorFlow手写体数字识别](slides/5-实战TensorFlow手写体数字识别.pdf)
 
 ## 问题答疑
 
