@@ -3,7 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [TensorFlow 快速入门与实战](#tensorflow-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98)
-  - [课件列表](#%E8%AF%BE%E4%BB%B6%E5%88%97%E8%A1%A8)
+  - [课程列表](#%E8%AF%BE%E7%A8%8B%E5%88%97%E8%A1%A8)
       - [第一部分：TensorFlow初印象](#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86tensorflow%E5%88%9D%E5%8D%B0%E8%B1%A1)
       - [第二部分：TensorFlow初接触](#%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86tensorflow%E5%88%9D%E6%8E%A5%E8%A7%A6)
       - [第三部分：TensorFlow基础概念解析](#%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86tensorflow%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E8%A7%A3%E6%9E%90)
@@ -21,21 +21,35 @@
 
 ![](images/course_poster.jpg)
 
-## 课件列表
+## 课程列表
 
-#### [第一部分：TensorFlow初印象](slides/1-TensorFlow初印象.pdf)
+#### 第一部分：TensorFlow初印象
 
-#### [第二部分：TensorFlow初接触](slides/2-TensorFlow初接触.pdf)
+[PPT](slides/1-TensorFlow初印象.pdf)
 
-#### [第三部分：TensorFlow基础概念解析](slides/3-TensorFlow基础概念解析.pdf)
+#### 第二部分：TensorFlow初接触
 
-#### [第四部分：实战TensorFlow房价预测](slides/4-实战TensorFlow房价预测.pdf)
+[PPT](slides/2-TensorFlow初接触.pdf) | [代码](notebook-examples/chapter-2)
 
-#### [第五部分：实战TensorFlow手写体数字识别](slides/5-实战TensorFlow手写体数字识别.pdf)
+#### 第三部分：TensorFlow基础概念解析
 
-#### [第六部分：实战TensorFlow验证码识别](slides/6-实战TensorFlow验证码识别.pdf)
+[PPT](slides/3-TensorFlow基础概念解析.pdf) | [代码](notebook-examples/chapter-3)
 
-#### [第七部分：实战TensorFlow人脸识别](slides/7-实战TensorFlow人脸识别.pdf)
+#### 第四部分：实战TensorFlow房价预测
+
+[PPT](slides/4-实战TensorFlow房价预测.pdf) | [代码](notebook-examples/chapter-4)
+
+#### 第五部分：实战TensorFlow手写体数字识别
+
+[PPT](slides/5-实战TensorFlow手写体数字识别.pdf) | [代码](notebook-examples/chapter-5)
+
+#### 第六部分：实战TensorFlow验证码识别
+
+[PPT](slides/6-实战TensorFlow验证码识别.pdf) | [代码](notebook-examples/chapter-6)
+
+#### 第七部分：实战TensorFlow人脸识别
+
+[PPT](slides/7-实战TensorFlow人脸识别.pdf) | [代码](notebook-examples/chapter-7)
 
 ## 问题答疑
 
