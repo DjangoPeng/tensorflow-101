@@ -26,7 +26,9 @@
 
 [第五部分：实战TensorFlow手写体数字识别](slides/5-实战TensorFlow手写体数字识别.pdf)
 
-[第六部分：实战TensorFlow手写体数字识别](slides/6-实战TensorFlow验证码识别.pdf)
+[第六部分：实战TensorFlow验证码识别](slides/6-实战TensorFlow验证码识别.pdf)
+
+[第七部分：实战TensorFlow人脸识别](slides/7-实战TensorFlow人脸识别.pdf)
 
 ## 问题答疑
 
