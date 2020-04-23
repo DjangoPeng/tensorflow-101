@@ -22,6 +22,10 @@
 
 ![](images/course_poster.jpg)
 
+## 交流讨论群
+
+![group_qrcode.png](images/group_qrcode.png)
+
 ## 课程列表
 
 #### 第一部分：TensorFlow初印象
