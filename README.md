@@ -20,7 +20,7 @@
 
 # TensorFlow 快速入门与实战
 
-![](images/course_poster.jpg)
+![](quickstart_and_practice/images/course_poster.jpg)
 
 ## 交流讨论群
 
@@ -30,35 +30,35 @@
 
 #### 第一部分：TensorFlow初印象
 
-[课件](slides/1-TensorFlow初印象.pdf)
+[课件](quickstart_and_practice/slides/1-TensorFlow初印象.pdf)
 
 #### 第二部分：TensorFlow初接触
 
-[课件](slides/2-TensorFlow初接触.pdf) | [代码](notebook-examples/chapter-2)
+[课件](quickstart_and_practice/slides/2-TensorFlow初接触.pdf) | [代码](quickstart_and_practice/notebook-examples/chapter-2)
 
 #### 第三部分：TensorFlow基础概念解析
 
-[课件](slides/3-TensorFlow基础概念解析.pdf) | [代码](notebook-examples/chapter-3)
+[课件](quickstart_and_practice/slides/3-TensorFlow基础概念解析.pdf) | [代码](quickstart_and_practice/notebook-examples/chapter-3)
 
 #### 第四部分：实战TensorFlow房价预测
 
-[课件](slides/4-实战TensorFlow房价预测.pdf) | [代码](notebook-examples/chapter-4)
+[课件](quickstart_and_practice/slides/4-实战TensorFlow房价预测.pdf) | [代码](quickstart_and_practice/notebook-examples/chapter-4)
 
 #### 第五部分：实战TensorFlow手写体数字识别
 
-[课件](slides/5-实战TensorFlow手写体数字识别.pdf) | [代码](notebook-examples/chapter-5)
+[课件](quickstart_and_practice/slides/5-实战TensorFlow手写体数字识别.pdf) | [代码](quickstart_and_practice/notebook-examples/chapter-5)
 
 #### 第六部分：实战TensorFlow验证码识别
 
-[课件](slides/6-实战TensorFlow验证码识别.pdf) | [代码](notebook-examples/chapter-6)
+[课件](quickstart_and_practice/slides/6-实战TensorFlow验证码识别.pdf) | [代码](quickstart_and_practice/notebook-examples/chapter-6)
 
 #### 第七部分：实战TensorFlow人脸识别
 
-[课件](slides/7-实战TensorFlow人脸识别.pdf) | [代码](notebook-examples/chapter-7)
+[课件](quickstart_and_practice/slides/7-实战TensorFlow人脸识别.pdf) | [代码](quickstart_and_practice/notebook-examples/chapter-7)
 
 #### 第八部分：TensorFlow社区参与指南
 
-[课件](slides/8-TensorFlow社区参与指南.pdf)
+[课件](quickstart_and_practice/slides/8-TensorFlow社区参与指南.pdf)
 
 ## 问题答疑
 
@@ -113,7 +113,7 @@ python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce
 
 #### 2. 学这个课程需要什么样的基础？
 
-![](images/knowledge-graph-0.jpg)
+![](quickstart_and_practice/images/knowledge-graph-0.jpg)
 
-![](images/knowledge-graph-1.jpg)
+![](quickstart_and_practice/images/knowledge-graph-1.jpg)
 
