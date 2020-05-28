@@ -20,7 +20,7 @@
 
 # TensorFlow 快速入门与实战
 
-![](quickstart_and_practice/images/course_poster.jpg)
+![course_poster](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/course_poster.jpg)
 
 ## 交流讨论群
 
