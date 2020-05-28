@@ -20,11 +20,11 @@
 
 # TensorFlow 快速入门与实战
 
-![course_poster](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/course_poster.jpg)
+![](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/course_poster.jpg)
 
 ## 交流讨论群
 
-![group_qrcode.png](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/qr.png)
+![](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/qr.png)
 
 ## 课程列表
 
