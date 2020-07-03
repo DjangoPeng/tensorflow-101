@@ -23,8 +23,8 @@ def parse_args(args):
     return parser.parse_args(args)
 
 
-# 数据文件夹里面应该包含train和test两个文件夹
-sets = ["train", "test"]
+# 数据文件夹里面应该包含train和val两个文件夹
+sets = ["train", "val"]
 
 class_dict = {}
 class_index = 0
