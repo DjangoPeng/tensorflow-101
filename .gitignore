@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 .zip
+
+*logs*
+*models*
