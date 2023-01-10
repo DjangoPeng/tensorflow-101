@@ -31,35 +31,35 @@
 
 #### 第一部分：TensorFlow初印象
 
-[课件](beginner/slides/1-TensorFlow初印象.pdf)
+[课件](beginners/slides/1-TensorFlow初印象.pdf)
 
 #### 第二部分：TensorFlow初接触
 
-[课件](beginner/slides/2-TensorFlow初接触.pdf) | [代码](beginner/notebook-examples/chapter-2)
+[课件](beginners/slides/2-TensorFlow初接触.pdf) | [代码](beginners/notebook-examples/chapter-2)
 
 #### 第三部分：TensorFlow基础概念解析
 
-[课件](beginner/slides/3-TensorFlow基础概念解析.pdf) | [代码](beginner/notebook-examples/chapter-3)
+[课件](beginners/slides/3-TensorFlow基础概念解析.pdf) | [代码](beginners/notebook-examples/chapter-3)
 
 #### 第四部分：实战TensorFlow房价预测
 
-[课件](beginner/slides/4-实战TensorFlow房价预测.pdf) | [代码](beginner/notebook-examples/chapter-4)
+[课件](beginners/slides/4-实战TensorFlow房价预测.pdf) | [代码](beginners/notebook-examples/chapter-4)
 
 #### 第五部分：实战TensorFlow手写体数字识别
 
-[课件](beginner/slides/5-实战TensorFlow手写体数字识别.pdf) | [代码](beginner/notebook-examples/chapter-5)
+[课件](beginners/slides/5-实战TensorFlow手写体数字识别.pdf) | [代码](beginners/notebook-examples/chapter-5)
 
 #### 第六部分：实战TensorFlow验证码识别
 
-[课件](beginner/slides/6-实战TensorFlow验证码识别.pdf) | [代码](beginner/notebook-examples/chapter-6)
+[课件](beginners/slides/6-实战TensorFlow验证码识别.pdf) | [代码](beginners/notebook-examples/chapter-6)
 
 #### 第七部分：实战TensorFlow人脸识别
 
-[课件](beginner/slides/7-实战TensorFlow人脸识别.pdf) | [代码](beginner/notebook-examples/chapter-7)
+[课件](beginners/slides/7-实战TensorFlow人脸识别.pdf) | [代码](beginners/notebook-examples/chapter-7)
 
 #### 第八部分：TensorFlow社区参与指南
 
-[课件](beginner/slides/8-TensorFlow社区参与指南.pdf)
+[课件](beginners/slides/8-TensorFlow社区参与指南.pdf)
 
 ## 问题答疑
 
@@ -114,7 +114,7 @@ python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce
 
 #### 2. 学这个课程需要什么样的基础？
 
-![](beginner/images/knowledge-graph-0.jpg)
+![](beginners/images/knowledge-graph-0.jpg)
 
-![](beginner/images/knowledge-graph-1.jpg)
+![](beginners/images/knowledge-graph-1.jpg)
 
